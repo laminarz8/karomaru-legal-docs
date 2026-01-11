@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # プライバシーポリシー（かろまる / Karomaru（MVP））
 
 最終更新日：2026-01-11  
