@@ -93,4 +93,4 @@ permalink: /privacy/
 ## 10. お問い合わせ
 
 プライバシーに関するお問い合わせは、以下までご連絡ください。  
-- 連絡先：（あなたの連絡用メールアドレスを記載）
+- 連絡先：karomaru.ai.trainer@gmail.com
